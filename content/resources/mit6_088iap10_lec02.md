@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8cf3213d-5883-c0ed-4129-16f59fc09327
 resourcetype: Document
 title: 'Lecture 2: The Logistics of Pointers and Memory Management'
 uid: ac8843ca-7a2c-6287-82bb-165b7ff073bb

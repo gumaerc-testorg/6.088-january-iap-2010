@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8cf3213d-5883-c0ed-4129-16f59fc09327
 resourcetype: Document
 title: 'Lecture 1: The Abstract Memory Machine'
 uid: 0c744399-3e15-1c95-e888-11f0c5c5bbc5

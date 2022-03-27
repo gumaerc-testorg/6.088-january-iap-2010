@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8cf3213d-5883-c0ed-4129-16f59fc09327
 resourcetype: Document
 title: 'Lecture 3: Oh, Say Can You C'
 uid: 9b6fe52f-9cf7-d286-e6f2-ec9c938a40f8

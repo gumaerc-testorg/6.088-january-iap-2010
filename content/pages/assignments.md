@@ -31,7 +31,7 @@ SUPPORTING FILES
 Introduction to C
 {{< tdclose >}}
 {{< tdopen >}}
-hello\_world.c ([C](/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/assignments/hello_world.c))
+hello\_world.c ([C]({{< baseurl >}}/resources/hello_world))
 {{< tdclose >}}
 
 {{< trclose >}}

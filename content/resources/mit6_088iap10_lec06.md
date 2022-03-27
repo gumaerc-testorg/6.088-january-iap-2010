@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8cf3213d-5883-c0ed-4129-16f59fc09327
 resourcetype: Document
 title: 'Day 6: Miscellaneous Topics'
 uid: 6a77c254-6710-8764-576f-82f7f0f4e12a
