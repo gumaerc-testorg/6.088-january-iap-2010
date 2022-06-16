@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on inheritance and polymorphism, templates, and standard
   library containers.
-file: /media/courses/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/67b1aec3f2867734ec0fb33034c8b5c8_MIT6_088IAP10_lec05.pdf
+file: /courses/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/67b1aec3f2867734ec0fb33034c8b5c8_MIT6_088IAP10_lec05.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,4 +13,10 @@ parent_uid: 8cf3213d-5883-c0ed-4129-16f59fc09327
 resourcetype: Document
 title: 'Day 5: Inheritance & Polymorphism'
 uid: 67b1aec3-f286-7734-ec0f-b33034c8b5c8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+Lecture notes on inheritance and polymorphism, templates, and standard library containers.
+

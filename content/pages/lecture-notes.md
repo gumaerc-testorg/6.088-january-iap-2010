@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics, a complete set
+  of lecture notes, and supporting files.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 8cf3213d-5883-c0ed-4129-16f59fc09327
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Lectures 1-3 were given by Jean Yang; lectures 4-6 were given by Eunsuk Kang.
@@ -36,7 +42,7 @@ SUPPORTING FILES
 Motivation for using C/C++; discussion of where C and C++ sit in the abstraction hierarchy; writing our first C programs
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_088iap10_lec01))
+({{% resource_link 0c744399-3e15-1c95-e888-11f0c5c5bbc5 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -51,10 +57,10 @@ Motivation for using C/C++; discussion of where C and C++ sit in the abstraction
 The logistics of memory manipulation in C (pointers, structs)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_088iap10_lec02))
+({{% resource_link ac8843ca-7a2c-6287-82bb-165b7ff073bb "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([ZIP]({{< baseurl >}}/resources/lec02)) (This ZIP file contains: 1 .c file and 1 .h file.)
+({{% resource_link 8663bb1b-fb2e-d53b-8349-110bb32f7d18 "ZIP" %}}) (This ZIP file contains: 1 .c file and 1 .h file.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +72,7 @@ The logistics of memory manipulation in C (pointers, structs)
 More advanced memory manipulation in C. We'll show double linked-list insert in place, inserting into a linked list using a double pointer, corner cases of using memory (when we actually need heap allocation), etc.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_088iap10_lec03))
+({{% resource_link 9b6fe52f-9cf7-d286-e6f2-ec9c938a40f8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -81,10 +87,10 @@ More advanced memory manipulation in C. We'll show double linked-list insert in 
 Introduction to C++; encapsulation: classes, namespaces, constructors and destructors; memory management in C++ (new, delete); operator overloading and standard input/output
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_088iap10_lec04))
+({{% resource_link 5097a61e-b3a3-ccf8-c602-2521cfb1c560 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([ZIP]({{< baseurl >}}/resources/lec04)) (This Zip file contains: 3 .cc files and 2 .h files.)
+({{% resource_link 79e2b722-a5bb-32f2-c786-71566a14ef36 "ZIP" %}}) (This Zip file contains: 3 .cc files and 2 .h files.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,10 +102,10 @@ Introduction to C++; encapsulation: classes, namespaces, constructors and destru
 Inheritance and polymorphism; templates; standard library containers
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_088iap10_lec05))
+({{% resource_link 67b1aec3-f286-7734-ec0f-b33034c8b5c8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([ZIP]({{< baseurl >}}/resources/lec05)) (This ZIP file contains: 4 .cc files and 3 .h files.)
+({{% resource_link 802ddabb-963b-d320-ff53-c6e5afbc308f "ZIP" %}}) (This ZIP file contains: 4 .cc files and 3 .h files.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,7 +117,7 @@ Inheritance and polymorphism; templates; standard library containers
 Tricks of the trade. Things people might see in interviews, etc. Review and discussion of the covered topics, Q&A.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_088iap10_lec06))
+({{% resource_link 6a77c254-6710-8764-576f-82f7f0f4e12a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
