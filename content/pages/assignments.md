@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This section provides the assignments of the course along with supporting
+  files.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: b2fe6f42-3ae4-25b1-24ae-8a0145f03914
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -28,7 +37,7 @@ SUPPORTING FILES
 Introduction to C
 {{< tdclose >}}
 {{< tdopen >}}
-hello\_world.c ([C](/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/assignments/hello_world.c))
+hello\_world.c ({{% resource_link e47750c4-b1d3-f389-40e8-abc7b816d0bc "C" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +49,7 @@ hello\_world.c ([C](/courses/electrical-engineering-and-computer-science/6-088-i
 Introduction to C memory management
 {{< tdclose >}}
 {{< tdopen >}}
-([ZIP]({{< baseurl >}}/resources/assn02)) (This ZIP file contains: 2 .c files and 1 .h file.)
+({{% resource_link b3ddaddb-65a3-4b65-963d-bb9214af0fbf "ZIP" %}}) (This ZIP file contains: 2 .c files and 1 .h file.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +61,7 @@ Introduction to C memory management
 More C memory management
 {{< tdclose >}}
 {{< tdopen >}}
-([ZIP]({{< baseurl >}}/resources/assn03)) (This ZIP file contains: 1 .c files and 1 .h file.)
+({{% resource_link b8d0170b-83b0-1a51-fe78-7d8e256e64c7 "ZIP" %}}) (This ZIP file contains: 1 .c files and 1 .h file.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +73,7 @@ More C memory management
 Introduction to C++
 {{< tdclose >}}
 {{< tdopen >}}
-([ZIP]({{< baseurl >}}/resources/assn04)) (This ZIP file contains: 1 .cc files and 1 .h file.)
+({{% resource_link 1d2ef4e0-aa9d-b3b9-89d6-c161c51ceadf "ZIP" %}}) (This ZIP file contains: 1 .cc files and 1 .h file.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +85,7 @@ Introduction to C++
 Inheritance and polymorphism
 {{< tdclose >}}
 {{< tdopen >}}
-([ZIP]({{< baseurl >}}/resources/assn05)) (This ZIP file contains: 1 .cc files and 1 .h file.)
+({{% resource_link 07327535-35b6-9d1f-227b-f8f9e72fbae2 "ZIP" %}}) (This ZIP file contains: 1 .cc files and 1 .h file.)
 {{< tdclose >}}
 
 {{< trclose >}}
