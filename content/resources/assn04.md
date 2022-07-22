@@ -6,6 +6,7 @@ file: /courses/6-088-introduction-to-c-memory-management-and-c-object-oriented-p
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Supporting files for an assignment on C++ programming. (This ZIP file contains: 1 .cc files and 1 .h file.)
-
