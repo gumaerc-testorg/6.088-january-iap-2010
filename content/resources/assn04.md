@@ -3,6 +3,7 @@ content_type: resource
 description: 'Supporting files for an assignment on C++ programming. (This ZIP file
   contains: 1 .cc files and 1 .h file.)'
 file: /courses/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/1d2ef4e0aa9db3b989d6c161c51ceadf_assn04.zip
+file_size: 855
 file_type: application/zip
 learning_resource_types:
 - Assignments
