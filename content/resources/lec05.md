@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Supporting files for the fifth lecture session of the course. (This
   ZIP file contains: 4 .cc files and 3 .h files.)'
-file: /courses/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/802ddabb963bd320ff53c6e5afbc308f_lec05.zip
+file: /ol-ocw-studio-app/courses/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/802ddabb963bd320ff53c6e5afbc308f_lec05.zip
 file_size: 2287
 file_type: application/zip
 learning_resource_types:
