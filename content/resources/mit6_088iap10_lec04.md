@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes on introductory C++, encapsulation, classes, namespaces,
   constructors, destructors, memory management in C++ (new, delete), operator overloading,
   and standard input/output.
-file: /ol-ocw-studio-app/courses/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/5097a61eb3a3ccf8c6022521cfb1c560_MIT6_088IAP10_lec04.pdf
+file: /courses/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/5097a61eb3a3ccf8c6022521cfb1c560_MIT6_088IAP10_lec04.pdf
 file_size: 499538
 file_type: application/pdf
 learning_resource_types:
