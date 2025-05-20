@@ -2,7 +2,7 @@
 content_type: resource
 description: "Lecture notes on polymorphism, namespaces, the Standard Template Library\
   \ (STL), copying objects, and integer over\uFB02ow,"
-file: /ol-ocw-studio-app/courses/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/6a77c25467108764576f82f7f0f4e12a_MIT6_088IAP10_lec06.pdf
+file: /courses/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/6a77c25467108764576f82f7f0f4e12a_MIT6_088IAP10_lec06.pdf
 file_size: 248618
 file_type: application/pdf
 learning_resource_types:
