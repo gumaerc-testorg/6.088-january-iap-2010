@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes with an introduction to C/C++ programming and information
   on course goals, prerequisites, and administrative details for the course.
-file: /courses/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/0c7443993e151c95e88811f0c5c5bbc5_MIT6_088IAP10_lec01.pdf
+file: /ol-ocw-studio-app/courses/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/0c7443993e151c95e88811f0c5c5bbc5_MIT6_088IAP10_lec01.pdf
 file_size: 415305
 file_type: application/pdf
 learning_resource_types:

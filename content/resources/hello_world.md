@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample code for an introductory C programming assignment.
-file: /courses/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/e47750c4b1d3f38940e8abc7b816d0bc_hello_world.c
+file: /ol-ocw-studio-app/courses/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/e47750c4b1d3f38940e8abc7b816d0bc_hello_world.c
 file_size: 506
 file_type: text/plain
 learning_resource_types:
